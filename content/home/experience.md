@@ -34,9 +34,9 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Student"
-  company = "University X"
+  company = "NUIST"
   company_url = ""
-  location = "Jiangsua"
+  location = "Jiangsu"
   date_start = "2019-09-07"
   date_end = ""
   description = """studying."""
