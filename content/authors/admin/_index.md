@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Physics Zhang is a student of Nanjing University of Information Science&Technology now. His research interests include physics, human geography and complex systems. He set up this website for the sharing of his notes and the gathering of comrades. He is very sorry for his poor English.
 
-Physics Zhang is one of my names.
+Physics Zhang is one of my names. I am very happy to meet every comrade. If you want, maybe it is a good choice to join my qq(please send e-mail to me).
