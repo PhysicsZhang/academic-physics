@@ -15,7 +15,7 @@ role: Student of Physics/Human geography and urban-rural planning
 # Organizations/Affiliations
 organizations:
 - name: Nanjing University of Information Science&Technology
-  url: ""
+  url: "www.nuist.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include physics, complex systems and marxism.
@@ -64,4 +64,3 @@ user_groups:
 - Visitors
 ---
 Physics Zhang is a student of Nanjing University of Information Science&Technology now. His research interests include physics, human geography and complex systems. He set up this website for the sharing of his notes and the gathering of comrades. He is very sorry for his poor English.
-我在网上的网名有许多，这里主要用“Physics Zhang”。建这个网站的目的是为了在网上找一个较为合适的地方存放自己的笔记，督促自己学习。我现在南京信息工程大学就读。我在这里诚挚的欢迎同我志同道合的同志与我讨论各种学术或实践问题。
