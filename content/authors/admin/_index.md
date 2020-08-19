@@ -15,7 +15,7 @@ role: Student of Physics/Human geography and urban-rural planning
 # Organizations/Affiliations
 organizations:
 - name: Nanjing University of Information Science&Technology
-  url: "www.nuist.edu.cn"
+  url: "https://www.nuist.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include physics, complex systems and marxism.
