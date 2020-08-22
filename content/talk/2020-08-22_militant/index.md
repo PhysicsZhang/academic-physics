@@ -1,5 +1,5 @@
 +++
-title = "How We Would Like To Work in the Czech Music Industry in 2020"
+title = "Militant Teenagers"
 date = 2019-10-04T10:16:00  
 draft = false
 
@@ -50,7 +50,7 @@ math = false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  caption = "Creating a Mindmap in 8 steps"
+  caption = "Militant Teenagers"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
