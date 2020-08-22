@@ -8,27 +8,27 @@ draft = false
 time_start = 2019-10-09T10:00:00
 time_end = 2019-10-09T19:00:00
 
-authors = ["Daniel Antal, CFA"]
+authors = ["Physics Zhang"]
 
 # Abstract and optional shortened version.
 abstract = "360-degree workshop with music professionals from the live, recording, publishing parts and the granting and collective management functions of the Czech music industry, organized by SoundCzech."
 
 # Name of event and optional event URL.
-event = "8-fields Music Development Workshop"
-event_url = "https://www.svet-hub.cz/"
+event = ""
+event_url = ""
 
 # Location of event.
-location = "Slovenská 21, Praha 2"
+location = ""
 
 # Is this a selected talk? (true/false)
 selected = true
 
 # Projects (optional).
-projects = ["market-report", "music-export"]
+projects = ["modern-society"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["grants", "export", "royalties", "concerts"]
+tags = ["marxism", "teenagers"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
