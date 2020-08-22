@@ -15,10 +15,10 @@ abstract = "Proletarier aller Länder, vereinigt euch!"
 
 # Name of event and optional event URL.
 event = "To memorize"
-event_url = ""
+event_url = "https://www.pku.edu.cn/"
 
 # Location of event.
-location = ""
+location = "China"
 
 # Is this a selected talk? (true/false)
 selected = true
@@ -50,7 +50,7 @@ math = false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  caption = ""
+  caption = "Militant Teenagers"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
