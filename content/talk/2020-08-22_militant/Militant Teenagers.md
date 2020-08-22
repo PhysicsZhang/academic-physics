@@ -6,12 +6,12 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2020-08-22T19:00:00 
-time_end = 2020-08-22T19:00:00 
+time_end = 2020-08-22T20:00:00 
 
 authors = ["Physics Zhang"]
 
 # Abstract and optional shortened version.
-abstract = "Proletarier aller Länder, vereinigt euch!"
+abstract = "Militant Teenagers"
 
 # Name of event and optional event URL.
 event = "To memorize"
@@ -57,4 +57,4 @@ math = false
   focal_point = "Left"
 +++
 
-Proletarier aller Länder, vereinigt euch!
+Militant Teenagers.
