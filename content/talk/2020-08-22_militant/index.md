@@ -6,7 +6,7 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2020-08-22T19:00:00 
-time_end = 2020-08-22T20:00:00 
+# time_end = 2020-08-22T20:00:00 
 
 authors = ["Physics Zhang"]
 
@@ -15,7 +15,7 @@ abstract = "Militant Teenagers"
 
 # Name of event and optional event URL.
 event = "To memorize"
-event_url = "https://www.pku.edu.cn/"
+event_url = ""
 
 # Location of event.
 location = "China"
@@ -28,7 +28,7 @@ projects = ["marxism"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["marxism"]
+tags = []
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
