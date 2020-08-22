@@ -1,6 +1,6 @@
 +++
 title = "Militant Youth"
-date = 2019-10-04T10:16:00  
+date = 2020-08-22T19:00:00  
 draft = false
 
 # Talk start and end times.
