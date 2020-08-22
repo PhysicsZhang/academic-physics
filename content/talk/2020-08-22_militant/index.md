@@ -1,5 +1,5 @@
 +++
-title = "Militant Teenagers"
+title = "Militant Youth"
 date = 2019-10-04T10:16:00  
 draft = false
 
@@ -11,7 +11,7 @@ time_end = 2019-10-09T19:00:00
 authors = ["Physics Zhang"]
 
 # Abstract and optional shortened version.
-abstract = "360-degree workshop with music professionals from the live, recording, publishing parts and the granting and collective management functions of the Czech music industry, organized by SoundCzech."
+abstract = "Workers and peasants choked up on running and displacement. Theory and practice made us choose to shout for workers and peasants. When the light is far away, we are willing to shoulder the burden of inheritance; when the darkness is still there, we are willing to turn into sparks in the sky! The reality tells us that the road ahead is still bumpy, but it is also the bumps that make every young man who evokes ideals gradually join us, making us stronger and more mature; it is also the bumps that make us better understand the meaning of fighting and go to the vast. The world, stand with workers and peasants! We are left-wing youth, we are the children of workers and peasants."
 
 # Name of event and optional event URL.
 event = ""
@@ -28,7 +28,7 @@ projects = ["modern-society"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["marxism", "teenagers"]
+tags = ["marxism", "youth"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -50,7 +50,7 @@ math = false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  caption = "Militant Teenagers"
+  caption = "Militant Youth"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
