@@ -1,6 +1,6 @@
 +++
 title = "test"
-date = 2017-11-7T19:00:00  
+date = 2017-11-8T12:00:00  
 draft = false
 
 # Talk start and end times.
@@ -11,7 +11,7 @@ time_end = 2019-10-09T19:00:00
 authors = ["Physics Zhang"]
 
 # Abstract and optional shortened version.
-abstract = "test."
+abstract = "test test test test."
 
 # Name of event and optional event URL.
 event = ""
@@ -24,7 +24,7 @@ location = ""
 selected = true
 
 # Projects (optional).
-projects = ["modern-society"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -57,5 +57,4 @@ math = false
   focal_point = "Left"
 +++
 
-test.
-
+test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.
