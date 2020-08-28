@@ -1,12 +1,12 @@
 +++
 title = "test"
-date = 2017-11-8T12:00:00  
+date = 2017-11-08T12:00:00  
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-10-09T10:00:00
-time_end = 2019-10-09T19:00:00
+time_start = 2019-11-09T10:00:00
+time_end = 2019-11-09T19:00:00
 
 authors = ["Physics Zhang"]
 
