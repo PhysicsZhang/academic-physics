@@ -2,17 +2,18 @@
 title = "test"
 date = 2017-11-08T12:00:00  
 draft = false
+
 ---
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-11-09T10:00:00
-time_end = 2019-11-09T19:00:00
+# time_start = 2019-11-09T10:00:00
+# time_end = 2019-11-09T19:00:00
 
 authors = ["Physics Zhang"]
 
 # Abstract and optional shortened version.
-abstract = "test test test test."
+abstract = "testdddd."
 
 # Name of event and optional event URL.
 event = ""
@@ -51,7 +52,7 @@ math = false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
-  caption = "1"
+  caption = "test"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -59,3 +60,5 @@ math = false
 +++
 
 test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.test.test test test test.
+
++++
