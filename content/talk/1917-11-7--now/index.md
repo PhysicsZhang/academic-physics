@@ -1,7 +1,8 @@
-+++
+---
 title = "test"
 date = 2017-11-08T12:00:00  
 draft = false
+---
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
