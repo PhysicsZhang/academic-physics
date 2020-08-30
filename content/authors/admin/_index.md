@@ -66,4 +66,4 @@ user_groups:
 
 Physics Zhang is a student of Nanjing University of Information Science&Technology now. His research interests include physics, human geography and complex systems. He set up this website for the sharing of his notes and the gathering of comrades. He is very sorry for his poor English.
 
-Physics Zhang is one of my names. I am very happy to meet every comrade. If you want, maybe it is a good choice to join my qq(please send e-mail to me).
+Physics Zhang is one of my names. I am very happy to meet every comrade. Proletarier aller Länder, vereinigt euch!
