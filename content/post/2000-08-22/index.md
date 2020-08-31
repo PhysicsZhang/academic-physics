@@ -35,8 +35,6 @@ summary = "My short presentation highlighted the fact that the CEE region’s is
 +++
 You can review the slides below.
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/MPGDNcEefEU04I" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/antaldaniel/sgeur13-1037-dantal" title="Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting" target="_blank">Value added by music in public performance and home copying: economic theory and empirical applications in tariff setting</a> </strong> from <strong><a href="//www.slideshare.net/antaldaniel" target="_blank">Dániel Antal</a></strong> </div>
-
 **Contents**:
 2. Private copying: blank carriers, technology-driven challenges 
 
