@@ -18,14 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "南京师范大学"
-  organization_url = "http://www.njnu.edu.cn/"
-  title = "地理大数据暑期学校"
-  url = ""
-  certificate_url = "http://www.njnu.edu.cn/"
-  date_start = "2020-8-23"
-  date_end = ""
-  description = ""
+
 
 +++
