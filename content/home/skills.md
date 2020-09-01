@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "0.3%"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fab"
+  name = "Languages"
+  description = "My mother tongue is Chinese. English: poor."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Math"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
