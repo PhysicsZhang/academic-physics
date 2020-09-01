@@ -21,8 +21,8 @@ subtitle = ""
   description = "0.3%"
   
 [[feature]]
-  icon = "language"
-  icon_pack = "fab"
+  icon = "database"
+  icon_pack = "fas"
   name = "Languages"
   description = "My mother tongue is Chinese. English: poor."
   
