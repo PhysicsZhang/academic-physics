@@ -8,7 +8,7 @@ authors = ["Physics Zhang"]
 
 tags = ["physics"]
 
-summary = "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
+summary = "献给一位朋友."
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -37,8 +37,36 @@ You can review the slides below.
 
 **Contents**:
 物质和测量
+
 运动的描述
+
 相互作用
+
+牛顿运动定律
+
+万有引力
+
+非惯性参考系
+
+守恒定律
+
+刚体
+
+谐振子
+
+流体
+
+*相对性原理的发展
+
+*洛伦兹变换及效应
+
+*质能动关系
+
+*相对性原理与引力
+
+*功和热
+
+*熵
 test
 
 Read more in the [Use cases](./usecase/) of this website.
